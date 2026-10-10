@@ -9,7 +9,7 @@ El análisis se desarrolló en Python utilizando Pandas, NumPy, Matplotlib y Sea
 ## 📂 Contenido del repositorio
 
 - `Project-tripleten-analysis-ConnectaTel.ipynb`
-  → En el notebook se trabajò identificando valores invalidos y sentinels, limpieza general de datos, correccion de sentinels y fechas imposibles, union de datasets relevantes, resumen estadistico general, visualizacion de distribuciones y outliers, segmentacion de clientes y recomendaciones finales.
+  → En el notebook se trabajo identificando valores invalidos y sentinels, limpieza general de datos, correccion de sentinels y fechas imposibles, union de datasets relevantes, resumen estadistico general, visualizacion de distribuciones y outliers, segmentacion de clientes y recomendaciones finales.
 
 ## ▶ Como abrir el notebook en Google Colab
 
@@ -17,17 +17,17 @@ Click en el boton a continuaciòn:
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1-rR0JYs57JeeUX2bdkjhSu_b8F-QaSqW)
 
-tambièn:
+tambien:
 
 1. Abrir el archivo `.ipynb` en GitHub
 2. Click **Open in Colab**
 
-## 📘 Como reproducir el anàlisis
+## 📘 Como reproducir el analisis
 
 1. Abrir `Project-tripleten-analysis-ConnectaTel.ipynb`
 2. Ejecutar las celdas del notebook en orden.
 
-## 🧠 Propòsito del anàlisis
+## 🧠 Proposito del analisis
 
 - Analizar patrones de uso: Examinar el consumo de llamadas y mensajes de los clientes de ConnectaTel.
 
